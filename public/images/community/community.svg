@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.ast0{opacity:0.4;fill:none;stroke:#43A3DB;stroke-width:3;stroke-miterlimit:10;}
+    .ast1{clip-path:url(#SVGID_00000061450811137068039840000001386448043869157295_);}
+    .ast2{fill:#F69320;}
+    .logo12 {fill:#F69320}
+    
+    /* Define the keyframes for fading in */
+    @keyframes fadeIn {
+        from { opacity: 0; }
+        to { opacity: 1; }
+    }
+    
+    /* Define the keyframes for fading out */
+    @keyframes fadeOut {
+        from { opacity: 1; }
+        to { opacity: 0; }
+    }
+    
+    /* Apply the animation to each image, with varying delays */
+    .fade-in-out {
+        animation-name: fadeIn, fadeOut;
+        animation-duration: 3s, 3s; /* 3s for fade in, 3s for fade out */
+        animation-timing-function: ease-in-out;
+        animation-iteration-count: infinite; /* Run the animation infinitely */
+        animation-direction: alternate; /* Alternate between fadeIn and fadeOut */
+    }
+    
+    /* Different delays for each image */
+    .img1 { animation-delay: 0s, 3s; } 
+    .img2 { animation-delay: 1s, 4s; } 
+    .img3 { animation-delay: 2s, 5s; }
+    .img4 { animation-delay: 3s, 6s; }
+    .img5 { animation-delay: 4s, 7s; }
+    .img6 { animation-delay: 5s, 8s; }
+    .img7 { animation-delay: 0.5s, 3.5s; } 
+    .img8 { animation-delay: 1.5s, 4.5s; } 
+    .img9 { animation-delay: 2.5s, 5.5s; }
+    .img10 { animation-delay: 3.5s, 6.5s; }
+    .img11 { animation-delay: 4.5s, 7.5s; }
+</style>
+<circle class="ast0" cx="250" cy="250" r="202.7"/>
+<circle class="ast0" cx="250" cy="250" r="140.9"/>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="189" y="189" width="122" height="122"/>
+	</defs>
+	<clipPath id="SVGID_00000174586593546854368270000014749819644705916600_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_00000174586593546854368270000014749819644705916600_);">
+		<path class="logo12" d="M306.9,197.2h-20.3c-3.5,0-6.6,1.5-8.8,3.8l-29.4,30.7c-0.3,0.3-0.5,0.8-0.6,1.3c-1,13.4-5.2,27.6-12.2,38.7
+			c-0.5,0.8-1.7,0.2-1.5-0.7c2.4-8.2,3.7-22.8,3.7-31c0-29.2-10.1-42.8-24.4-42.8h-8.1c-6,0-7.6-8.1-12.2-8.1
+			c-2.3,0-4.1,1.9-4.1,4.1v4c0,2.3,1.8,4.1,4.1,4.1h4c6.2,0,12.2,10.9,12.2,32.2c0,49-20.3,48.2-20.3,73.5c0,2.3,1.8,4.1,4.1,4.1
+			c10.2,0,18.9-4.6,25.8-11.9l26.7-27.9c0,0,0,0,0,0l27.3,22.6c0.9,0.8,1.5,1.9,1.5,3.1v10c0,2.3,1.8,4.1,4.1,4.1h20.3
+			c2.3,0,4.1-1.8,4.1-4.1v-16.7c0-4.8-2.2-9.4-5.9-12.5l-32.1-26.6c0,0,0,0,0,0l45-47c0.7-0.7,1.2-1.7,1.2-2.8
+			C311,199,309.2,197.2,306.9,197.2L306.9,197.2z M195.1,197.2c0,1.1-0.9,2-2,2c-1.1,0-2-0.9-2-2v-4.1c0-1.1,0.9-2,2-2
+			c1.1,0,2,0.9,2,2V197.2z"/>
+	</g>
+</g>
+<image class="fade-in-out img1" style="overflow:visible;enable-background:new    ;" width="130" height="130" xlink:href="https://ocm9425.tools/community/bitmap.png"  transform="matrix(0.4364 0 0 0.4364 152 343)">
+</image>
+<image class="fade-in-out img2" style="overflow:visible;enable-background:new    ;" width="126" height="126" xlink:href="https://ocm9425.tools/community/node.png"  transform="matrix(0.4364 0 0 0.4364 267 27)">
+</image>
+<image class="fade-in-out img3" style="overflow:visible;enable-background:new    ;" width="126" height="126" xlink:href="https://ocm9425.tools/community/omb.png"  transform="matrix(0.4364 0 0 0.4364 30 294)">
+</image>
+<image class="fade-in-out img4" style="overflow:visible;enable-background:new    ;" width="126" height="126" xlink:href="https://ocm9425.tools/community/punks.png"  transform="matrix(0.4364 0 0 0.4364 270 418)">
+</image>
+<image class="fade-in-out img5" style="overflow:visible;enable-background:new    ;" width="126" height="126" xlink:href="https://ocm9425.tools/community/puppets.png"  transform="matrix(0.4364 0 0 0.4364 396 317)">
+</image>
+<image class="fade-in-out img6" style="overflow:visible;enable-background:new    ;" width="126" height="126" xlink:href="https://ocm9425.tools/community/rsic.png"  transform="matrix(0.4365 0 0 0.4365 389 102)">
+</image>
+<image class="fade-in-out img7" style="overflow:visible;enable-background:new    ;" width="126" height="126" xlink:href="https://ocm9425.tools/community/ocm.png"  transform="matrix(0.4364 0 0 0.4364 162.5091 95.5091)">
+</image>
+<image class="fade-in-out img8" style="overflow:visible;enable-background:new    ;" width="130" height="130" xlink:href="https://ocm9425.tools/community/frogs.png"  transform="matrix(0.423 0 0 0.423 48.5091 117.5091)">
+</image>
+<image class="fade-in-out img9" style="overflow:visible;enable-background:new    ;" width="126" height="126" xlink:href="https://ocm9425.tools/community/trac.png"  transform="matrix(0.4364 0 0 0.4364 358.5091 205.5091)">
+</image>
+</svg>
